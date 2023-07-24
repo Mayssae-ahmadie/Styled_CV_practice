@@ -91,31 +91,10 @@
     font-size: large;
 }
 
-.listing2 {
-    list-style-type: none;
-    display: inline;
-    margin-inline: 250px;
-    justify-content: left;
-    margin-left: -40px;
-    font-style: italic;
-    font-size: large;
-    justify-content: flex-start;
-    justify-content: flex-end;
-}
-
 .workexperience {
     padding-top: 50px;
     text-decoration: underline;
     color: #007aff
-}
-
-.numbers .listing3 {
-    display: inline;
-    margin-inline: 250px;
-    justify-content: left;
-    margin-left: -40px;
-    font-style: italic;
-    font-size: large;
 }
 
 .h5 {
@@ -132,17 +111,72 @@
     color: #007aff
 }
 
+.column1 .column2 {
+    width: 50%;
+}
+
 .skills {
-    padding-top: 50px;
+    padding-top: 40px;
     text-decoration: underline;
     color: #007aff
 }
 
-.button {
-    background-color: #36454F;
+.buttons {
+    height: 30px;
+    width: 100px;
+    background-color: grey;
     text-align: center;
-    text-decoration: none;
     display: inline;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.projects {
+    padding-top: 140px;
+    text-decoration: underline;
+    color: #007aff
+}
+
+.title4 {
+    font-weight: bold;
+}
+
+.listing5 {
+    margin-right: 0px;
+}
+
+.onlinecourses {
+    text-decoration: underline;
+    color: #007aff
+}
+
+.languages {
+    text-decoration: underline;
+    color: #007aff
+}
+
+.td2 {
+    padding-left: 100px;
+}
+
+.td {
+    padding-left: 400px;
+}
+
+.td1 {
+    padding-left: 400px;
+}
+
+.table {
+    font-style: italic;
+}
+
+.table1 {
+    font-style: italic;
+}
+
+.title2 {
+    margin-top: -15px;
 }
